@@ -18,7 +18,7 @@
   <a href="mailto:letrix7@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://RafaelOfEldor.github.io" target="_blank">
+   <a href="https://github.com/RafaelOfEldor?tab=repositories" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
