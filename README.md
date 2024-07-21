@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Yo+yo!+Welcome+to+my+github+🌊🌊🌊;+My+name+is+Audun+Alhassan+👋;" />
 </h1>
 
-<h3 align="center">I'm an aspiring software developer located in Oslo, Norway</h3>
+<h3 align="center">I'm an aspiring software developer located in Oslo, Norway.</h3>
 
 <br/>
 
